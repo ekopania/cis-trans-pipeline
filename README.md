@@ -1,7 +1,7 @@
 # cis-trans-pipeline
 
 ## Scripts to assign genes to regulatory categories (e.g., cis, trans, cis X trans) based on allele-specific expression data.
-Pipeline from Kopania et al.: https://www.biorxiv.org/content/10.1101/2021.08.04.455131v2
+Pipeline from Kopania et al. 2022: https://doi.org/10.1093/molbev/msac023
 
 ### Step 1: Prepare modfiles and pseudogenomes
 
